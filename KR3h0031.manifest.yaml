@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3h0031_000.yaml, hash: 'sha256:30a82fe6127d1154b74ee5cbb77c8fcf0cef7750d1c55bece66c3bf0f52948f7'}
   - {seq: 1, filename: KR3h0031_001.yaml, hash: 'sha256:63a382a14e0ffe99cbde808c008d08ac3984a39d7bdacba602e5384986a33f25'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0031_000.markers.yaml, hash: 'sha256:b97edc2e4d6490942fe50050e7afe5b4dadee6e1983452519d476d6c689c37f3'}
-  - {seq: 1, role: markers, filename: assets/KR3h0031_001.markers.yaml, hash: 'sha256:49a5cf54f9a73f76d3035b64b186ae7bc3f730aee9a01c154940ab24894b9226'}
+  - {seq: 0, role: markers, filename: assets/KR3h0031_000.markers.yaml, hash: 'sha256:862727918980df04491a77307e2e453e1d95ba5e9f794d24a20c8da463ef623e'}
+  - {seq: 1, role: markers, filename: assets/KR3h0031_001.markers.yaml, hash: 'sha256:76ffc0477c6f4c5723f920cc8cdd0e7fcaebfd353f947f099d346b67c86aee98'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 續書譜
   type: section
   level: 1
-hash: sha256:5d694412e8f64fe588d7435ec6e555ac57416a0b85e9bfd9afaae94d9dd6544c
+hash: sha256:2d47b4fe6438312f2b286850ec36c37fa11eee1fb0362075f36440f1945be4c9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
